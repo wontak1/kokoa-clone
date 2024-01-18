@@ -5,6 +5,7 @@
     
 }
 .user-component{
+    
     justify-content: space-between;
 }
 .user-component__avatar{
@@ -20,7 +21,7 @@
 .user-component__subtitle{
     margin-top: 8px;
     font-size: 17px;
-    color: rgba(0,0,0,0/5);
+    color: rgba(0,0,0,0.5);
 }
 .user-component__avatar--xl {
     width: 80px;
